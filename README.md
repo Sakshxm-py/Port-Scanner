@@ -15,7 +15,7 @@ To get started, clone the repository and install the required dependencies:
 ```gh repo clone Sakshxm-py/Port-Scanner```
 
 # Contributing
-We welcome contributions to improve this tool. Please refer to the CONTRIBUTING.md for guidelines on how to get started.
+We welcome contributions to improve this tool. Please refer to the [CONTRIBUTING.md](https://contributing.md) for guidelines on how to get started.
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
